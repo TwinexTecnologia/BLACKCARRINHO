@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Repeticao Maxima | Painel Interno",
+  title: "Black Antecipada | Repeticao Maxima",
   description:
-    "Painel interno da Repeticao Maxima para pedidos, financeiro, taxas e simulacao de margem.",
+    "Landing page da Black Antecipada da Repeticao Maxima.",
 };
 
 export default function RootLayout({
